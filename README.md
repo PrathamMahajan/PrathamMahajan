@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @PrathamMahajan
-- 👀 I’m interested in Coding, Global News, Stock Market, Listening Music
-- 🌱 I’m currently learning Artificial Intelligence And Data Science
-- 📫 How to reach me : instagram: pratham_mahajan2828 
+👋 Hey there, I'm Pratham Mahajan!
 
-<!---
-PrathamMahajan/PrathamMahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about Coding, Global News, Stock Market, and Music.
+
+🌱 Currently diving deep into Artificial Intelligence and Data Science.
+
+💡 I love to explore the intersection of technology and humanity.
+
+🔭 Always seeking new coding challenges and projects to collaborate on.
+
+📈 Fascinated by the dynamics of the Stock Market and its endless possibilities.
+
+🎧 Music is my fuel for creativity and focus while coding.
+
+📫 Let's connect! Drop me a message on Instagram: [@pratham_mahajan2828](https://www.instagram.com/pratham_mahajan2828/)
+
+🌍 Excited to be part of the global tech community!
+
