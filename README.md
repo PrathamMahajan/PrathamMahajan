@@ -63,7 +63,7 @@
 ---
 
 ## Tech & tools
-- **Languages:** Python, SQL, Scala (spark), Bash
+- **Languages:**C/ C++, Python, JAVA, SQL, Scala (spark), Bash
 - **ML / DS:** PyTorch, TensorFlow, Hugging Face, scikit-learn
 - **Data & infra:** Spark (PySpark), AWS (S3, Lambda, Glue), PostgreSQL, Docker
 - **Other:** Git, CI/CD, OpenAI APIs
@@ -76,22 +76,10 @@
   <img src="https://img.shields.io/badge/AWS-%232F2F2F.svg?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
 
----
-
-## How to read my repos (quick signal for recruiters)
-- **InvestIQ** — sentiment analysis & finance news pipeline (uses transformers, scrapers). Good for quant-ish roles.
-- **Resume-Categorizer-and-Ranker** — NLP pipeline for resume ranking (shows production design).
-- **HarmonyGuard** — multimodal hate-speech detection (paper + code) — *award-winning* (link paper within repo).
-
-If you want, I’ll write short one-line taglines in those repo READMEs so each project page converts.
-
----
 
 ## Want to recruit / chat?
-- Email: `pratham@example.com` (replace with your email)
-- LinkedIn: https://www.linkedin.com/in/pratham-mahajan
-- Resume: `https://your-hosted-resume-link` (replace)
-- Instagram: https://www.instagram.com/pratham_mahajan2828/
+- Email: `mahajan.prat@northeastern.edu`
+- LinkedIn: [https://www.linkedin.com/in/pratham-mahajan](https://www.linkedin.com/in/pratham-mahajan-63ba3820b/)
 
 ---
 
