@@ -10,7 +10,7 @@
   <a href="https://github.com/PrathamMahajan"><img alt="GitHub followers" src="https://img.shields.io/github/followers/PrathamMahajan?label=Follow&style=social" /></a>
   <a href="https://www.linkedin.com/in/pratham-mahajan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratham-blue?logo=linkedin" /></a>
   <a href="https://www.instagram.com/pratham_mahajan2828/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@pratham__mahajan2828-E4405F?logo=instagram" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-pratham%40example.com-D14836?logo=gmail" /></a>
+  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahajan.prat@northeastern.edu-D14836?logo=gmail" /></a>
 </p>
 
 ---
