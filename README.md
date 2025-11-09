@@ -103,7 +103,7 @@ Relevant Coursework: Machine Learning, Deep Learning, AI in Finance, Big Data An
 
 ## 🎧 Night-Owl Playlist
 > *“Music is my fuel for creativity and focus.”*  
-🎵 [Spotify: Late-Night Code Sessions](https://open.spotify.com) (replace with your own)
+🎵 [Spotify: Late-Night Code Sessions](https://open.spotify.com)
 
 ---
 
