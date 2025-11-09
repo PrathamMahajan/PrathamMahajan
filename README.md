@@ -63,36 +63,6 @@ AWS, Azure, GCP, MySQL, PostgreSQL, MongoDB, Firebase, DBeaver
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamMahajan&theme=radical" />
 </p>
 
----
-
-## 🧩 Highlighted Projects
-
-<p align="center">
-  <a href="https://github.com/PrathamMahajan/CV-Insights" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamMahajan&repo=CV-Insights&theme=radical" />
-  </a>
-  <a href="https://github.com/PrathamMahajan/Gender-AgeDetectionSystem" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamMahajan&repo=Gender-AgeDetectionSystem&theme=radical" />
-  </a>
-  <a href="https://github.com/PrathamMahajan/Network-Anomaly-Detection" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamMahajan&repo=Network-Anomaly-Detection&theme=radical" />
-  </a>
-</p>
-
-### 🔹 CV Insight  
-NLP-powered resume parsing and ranking engine analyzing **5,000+ resumes** with 92%+ accuracy and a 40% boost in candidate-to-job matching.
-
-### 🔹 GenAge Detector  
-CNN-based deep learning model predicting **age and gender** from facial images with 96% accuracy using **TensorFlow + OpenCV**.
-
-### 🔹 InvestIQ  
-Financial sentiment analysis system leveraging **BERT/FinBERT** to analyze 5K+ news articles for market predictions (∼90% accuracy).
-
-### 🔹 Network Anomaly Detection  
-Autoencoder-based real-time intrusion detection system achieving **92% accuracy** and reducing false positives by 15%.
-
----
-
 ## 🧠 Professional Experience
 
 ### 💼 Software Developer @ Arcon Tech Solutions *(2024–25)*
@@ -101,7 +71,7 @@ Autoencoder-based real-time intrusion detection system achieving **92% accuracy*
 - Integrated **advanced IP/URL filtering** boosting threat detection by 35%  
 - Used **WinDbg**, **DebugView**, and system internals for real-time kernel debugging  
 
-### 🤖 AI/ML Developer @ Soshal *(2024)*  
+### 🤖 AI/ML Developer @ Soshals *(2024)*  
 - Built **AI-powered Twitter/X automation** using GPT-3.5/4, improving content creation speed by **80%**  
 - Automated **1,500+ social posts weekly** and reduced post-processing time by **50%**  
 - Designed ML-backed support suite reducing customer response time by **30%**  
